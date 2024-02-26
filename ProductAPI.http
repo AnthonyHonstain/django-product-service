@@ -1,0 +1,7 @@
+### GET request list
+GET http://localhost:8000/product/products/
+Accept: application/json
+
+### GET request single record
+GET http://localhost:8000/product/products/1/
+Accept: application/json
